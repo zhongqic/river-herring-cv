@@ -10,7 +10,17 @@
   * [Supervision](https://supervision.roboflow.com/latest/)
   * huggingface_hub (for downloading test dataset)
 
+Setup the environment to run scripts in this repo (work inprogress..)
+```
+# clone the repo and enter directory
+git clone https://github.com/zhongqic/river-herring-cv.git && cd river-herring-cv.git
 
+# create a conda environment, with Python>=3.9
+conda create -n river-herring-cv python=3.12
+
+# Install requirements
+pip install -r requirements.txt
+```
 
 
 ### 📁 Annotated Dataset

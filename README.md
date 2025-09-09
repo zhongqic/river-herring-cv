@@ -2,7 +2,7 @@
 This repository contains code, models, tools, and documentation for a river herring monitoring system that uses underwater video and computer vision. It supports a complete workflow including: video processing and annotation, training custom YOLO-based detection models, tracking fish movements, generating fish counts and applying unbiased count corrections via importance sampling.
 
 
-## ⚙️ Requirement
+### ⚙️ Requirement
   * Platforms: Windows, Linux or maxOS
   * NVIDIA GPU (recommended for CV model training and inference).
   * python>=3.9 (tested on 3.12)
@@ -24,14 +24,14 @@ pip install -r requirements.txt
 ```
 
 
-### 📁 Annotated Dataset
+#### 📁 Annotated Dataset
 Full set of bounding-box annotations from this project is available at [lila.science](https://lila.science/datasets/mit-sea-grant-river-herring/).      
 It is also included in the [Community Fish Detection Dataset](https://lila.science/datasets/community-fish-detection-dataset/).  
 
 
-## 🤖 YOLO model training
+#### 🤖 YOLO model training
 
-#### 1. Download test dataset (a small subset for testing)
+##### 1. Download test dataset (a small subset for testing)
 ```python
 from huggingface_hub import hf_hub_download, snapshot_download
 snapshot_download(repo_id="zhongqic/Fisheye-example", allow_patterns=["*.tar.gz", "data.yaml"], repo_type="dataset", local_dir="data/test_train")
@@ -45,8 +45,8 @@ tar  -xzf data/test_train/val.tar.gz -C .\data\test_train
 tar  -xzf data/test_train/test.tar.gz -C .\data\test_train
 ```
 
-#### 2. YOLO model training
-Ultralytics YOLO training is nicely packed and very easy to run.  Python scripts here can also be found in `src/train_yolo11.py`.  
+##### 2. YOLO model training
+[Ultralytics YOLO](https://github.com/ultralytics/ultralytics) model training is very easy to setup and run.  Python scripts here can also be found in `src/train_yolo11.py`.  
 ```python
 
 from ultralytics import YOLO
@@ -62,7 +62,27 @@ results = model.train(data=yaml_file, epochs=2, batch = 8)
 model.val(data  = yaml_file, split = "test")
 ```
 
+#### 🐟 Detect, Track and Count Fish
+A yolo11 model pretrained on the full dataset is available under `weights/` for river herring detection and counting. The speed of processing each video mostly depending on GPU.
 
 
+```python
+python src/count_fish.py \
+    data/raw_video/1_2024-05-07_10_06_48-355.mp4 \ # input video file
+    weights/river-herring-yolo11.pt \              # model weight
+    outputs/fish_count \                           # output dir for count results
+    --class_id 0 \          # Class ID to count
+    --save_video \          # include to save annotated video
+    --tracker 'botsort.yaml' \  # tracker "bytetrack.yaml"
+    --conf_thresh 0.8 \     # detection threshold
+    --line_pos 0.6 \        # count line position, left - 0, right - 1
+    --move_right "Upstream" \  # migration direction of fish swiming right
+    --move_left "Downstream"   # migration direction of fish swiming left
+```
 
+**Batch processing**
+To process multiple videos at once, list their file paths in `scripts/video_file_list.txt`. Then, run this bash script. The results for each video will be saved in a dedicated directory (named after the video file) within the specified output directory (outdir).
 
+```bash
+./scripts/batch_fish_counter.sh  scripts/video_file_list.txt weights/river-herring-yolo11.pt outputs/fish_count
+```

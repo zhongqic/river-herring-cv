@@ -86,3 +86,12 @@ To process multiple videos at once, list their file paths in `scripts/video_file
 ```bash
 ./scripts/batch_fish_counter.sh  scripts/video_file_list.txt weights/river-herring-yolo11.pt outputs/fish_count
 ```
+
+
+#### 📈 DISCount for unbiased count estimate
+In crowded scenes when fish overlap, low visibility, the cv model may miss detections or count incorrectly. We used the [DISCount approach](https://ojs.aaai.org/index.php/AAAI/article/view/30235), which is a detector-based importance sampling framework that integrates an imperfect detector with human-in-the-loop screening to produce unbiased estimates of object counts in CV tasks.
+
+Detailed step-by-step tutorial on doing DISCount can be found [here](https://github.com/gperezs/DISCount/), and this [notebook](https://colab.research.google.com/drive/1bOEV7HCKZhJYfSGqCy47X0qPtgwCI85c?usp=sharing) with example from this River Herring project.
+
+
+

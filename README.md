@@ -95,3 +95,22 @@ Detailed step-by-step tutorial on doing DISCount can be found [here](https://git
 
 
 
+#### Links
+<details><summary> <b>Expand</b> </summary>
+
+|||
+|---|---|
+Fisheye Project website |https://www.woodwellclimate.org/project/fisheye/
+Coonamessett River Trust |https://www.crivertrust.org   
+Ipswich River Watershed Association |https://www.ipswichriver.org/   
+Fisheye Project website |https://www.woodwellclimate.org/project/fisheye/
+MIT Seagrant |https://seagrant.mit.edu/ 
+|
+huggingface repo |https://huggingface.co/zhongqic  
+CVAT| https://www.cvat.ai/resources/blog/bounding-boxes  
+Supervision| https://supervision.roboflow.com/develop/notebooks/count-objects-crossing-the-line/  
+FFmpeg| https://ffmpeg.org/  
+W&B| https://docs.wandb.ai/guides/integrations/ultralytics/  
+
+</details>
+

@@ -1,0 +1,510 @@
+id,name,status,updated_date,species,frames_with_fish,number_of_tracks,time_of_day,train_set
+766558,Coonamassett_2024-05-07_05-14-34_268.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,102,1,night,train
+766559,Coonamassett_2024-05-08_05-03-30_180.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,36,2,night,val
+766560,Coonamassett_2024-05-08_05-29-36_107.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,19,2,night,train
+766562,Coonamassett_2024-05-10_05-12-46_323.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,65,2,night,train
+766564,Coonamassett_2024-05-11_05-39-47_354.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,46,1,dawn,train
+766570,Coonamassett_2024-05-08_11-22-08_536.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,48,2,day,train
+766572,Coonamassett_2024-05-09_11-08-00_541.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,43,3,day,val
+766574,Coonamassett_2024-05-09_14-18-31_492.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,9,1,day,train
+766575,Coonamassett_2024-05-09_14-57-59_217.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,73,3,day,val
+766576,Coonamassett_2024-05-10_10-36-53_254.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,10,2,day,train
+766577,Coonamassett_2024-05-10_10-37-07_605.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,14,1,day,test
+766579,Coonamassett_2024-05-12_08-51-22_667.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,54,1,day,train
+766580,Coonamassett_2024-05-06_10-04-19_885.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,92,13,day,val
+766582,Coonamassett_2024-05-06_10-06-32_748.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,52,4,day,test
+766583,Coonamassett_2024-05-06_10-22-07_329.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,85,8,day,train
+766584,Coonamassett_2024-05-06_10-51-00_490.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,48,2,day,train
+766585,Coonamassett_2024-05-06_18-05-16_700.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,66,4,day,train
+766586,Coonamassett_2024-05-06_18-05-34_985.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,6,1,day,train
+766587,Coonamassett_2024-05-07_07-18-38_262.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,122,36,day,test
+766602,Coonamassett_2024-05-06_20-01-30_496.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,50,1,night,train
+766604,Coonamassett_2024-05-06_20-03-05_995.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,46,3,night,train
+766607,Coonamassett_2024-05-06_20-06-42_085.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,77,2,night,train
+766611,Coonamassett_2024-05-06_20-16-35_298.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,56,4,night,train
+766614,Coonamassett_2024-05-09_19-21-00_948.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,43,3,day,test
+766617,Coonamassett_2024-05-09_19-34-49_673.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,13,1,night,train
+766620,Coonamassett_2024-05-10_05-00-01_342.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,22,1,night,train
+766622,Coonamassett_2024-05-10_05-03-25_342.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,18,1,night,train
+766625,Coonamassett_2024-05-10_20-55-32_246.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,26,3,night,val
+766627,Coonamassett_2024-05-06_05-00-15_535.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,11,1,night,train
+766628,Coonamassett_2024-05-06_05-06-41_203.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,8,1,night,train
+766631,Coonamassett_2024-05-06_05-07-09_165.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,27,1,night,train
+766633,Coonamassett_2024-05-07_21-22-40_794.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,39,1,night,train
+766635,Coonamassett_2024-05-07_21-33-33_832.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,48,1,night,train
+766637,Coonamassett_2024-05-08_01-05-47_771.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,75,2,night,train
+766639,Coonamassett_2024-05-08_22-00-37_859.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,24,1,night,train
+766642,Coonamassett_2024-05-08_22-55-26_549.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,30,1,night,train
+766646,Coonamassett_2024-05-09_20-11-05_976.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,40,1,night,train
+766649,Coonamassett_2024-05-10_02-05-23_991.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,25,1,night,train
+780025,Coonamassett_2024-05-13_12-38-50_540.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,43,1,day,train
+780026,Coonamassett_2024-05-13_13-17-23_109.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,20,1,day,train
+780027,Coonamassett_2024-05-14_08-48-11_778.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,21,1,day,val
+780028,Coonamassett_2024-05-14_08-49-56_613.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,28,1,day,train
+780029,Coonamassett_2024-05-17_12-00-01_644.mp4,completed,2024-11-20T02:15:27.198581Z,Unknown Fish,8,2,day,train
+780030,Coonamassett_2024-05-17_12-24-21_688.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,22,1,day,train
+780031,Coonamassett_2024-05-17_12-34-25_324.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,41,2,day,test
+780032,Coonamassett_2024-05-17_12-57-27_895.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,23,1,day,train
+780033,Coonamassett_2024-05-19_05-50-40_909.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,5,1,day,train
+780034,Coonamassett_2024-05-13_20-05-10_316.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,63,9,night,train
+780036,Coonamassett_2024-05-19_04-26-54_502.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,13,1,night,train
+780040,Coonamassett_2024-05-13_20-03-19_409.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,7,1,night,train
+780041,Coonamassett_2024-05-13_20-03-09_599.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,52,5,night,train
+780046,Coonamassett_2024-05-13_20-51-26_606.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,30,3,night,train
+780047,Coonamassett_2024-05-13_20-34-29_087.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,29,1,night,train
+780048,Coonamassett_2024-05-13_20-43-57_371.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,17,1,night,train
+780193,Coonamassett_2024-04-25_10-04-31_658.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,70,2,day,train
+780251,Coonamassett_2024-04-25_13-08-54_785.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,89,2,day,train
+780252,Coonamassett_2024-04-25_13-09-31_785.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,9,1,day,train
+782560,Coonamassett_2024-04-26_12-52-36_238.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,134,3,day,train
+782562,Coonamassett_2024-04-26_12-56-20_962.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,121,8,day,train
+782908,Coonamassett_2024-04-29_15-47-24_477.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,66,1,day,train
+782926,Coonamassett_2024-04-30_10-57-47_657.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,28,1,day,train
+787114,Coonamassett_2024-05-02_20-46-15_987.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,14,1,night,train
+787120,Coonamassett_2024-05-02_20-58-37_064.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,19,2,night,train
+788965,Coonamassett_2024-05-07_05-14-34_202.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,102,1,night,val
+789621,Coonamassett_2024-06-05_09-42-56_557.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,4,1,day,train
+789622,Coonamassett_2024-06-05_09-37-58_601.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,12,1,day,train
+789693,Coonamassett_2024-06-05_04-23-23_682.mp4,completed,2024-11-06T15:17:50.240866Z,Unknown Fish,8,1,night,train
+789697,Coonamassett_2024-06-05_04-27-35_995.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,23,2,night,train
+791110,Coonamassett_2024-05-08_00-03-11_812.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,78,2,night,train
+791112,Coonamassett_2024-05-08_00-29-54_722.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,42,1,night,train
+791217,Coonamassett_2024-05-06_09-02-05_511.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,121,34,day,train
+791292,Coonamassett_2024-05-07_09-05-52_996.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,135,40,day,train
+791586,Coonamassett_2024-06-05_00-16-02_635.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,27,1,night,train
+791605,Coonamassett_2024-06-05_02-34-51_676.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,15,1,night,train
+791628,Coonamassett_2024-06-05_04-44-56_609.mp4,completed,2024-11-06T15:17:50.240866Z,"Unknown Fish, River Herring",23,4,night,train
+791629,Coonamassett_2024-06-05_04-21-13_622.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,8,1,night,train
+791632,Coonamassett_2024-06-05_04-32-37_088.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,9,1,night,test
+797246,Coonamassett_2024-05-07_17-58-50_610.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,34,3,day,test
+797247,Coonamassett_2024-05-07_17-04-39_749.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,65,3,day,test
+797248,Coonamassett_2024-05-07_17-42-40_925.mp4,completed,2024-11-06T15:17:50.240866Z,"Eel, River Herring",70,3,day,train
+797257,Coonamassett_2024-05-07_20-22-36_106.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,17,2,night,train
+797258,Coonamassett_2024-05-07_20-34-59_533.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,7,1,night,train
+797259,Coonamassett_2024-05-07_20-41-20_391.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,34,1,night,train
+797260,Coonamassett_2024-05-07_20-42-54_371.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,6,1,night,train
+797261,Coonamassett_2024-05-07_20-57-52_785.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,14,1,night,test
+797343,Coonamassett_2024-05-08_05-28-51_654.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,7,1,night,train
+797344,Coonamassett_2024-05-08_05-35-38_070.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,9,1,dawn,train
+797353,Coonamassett_2024-05-09_04-12-18_684.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,17,1,night,train
+797354,Coonamassett_2024-05-09_04-16-15_101.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,29,2,night,train
+797357,Coonamassett_2024-05-09_04-23-40_969.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,29,1,night,train
+797358,Coonamassett_2024-05-09_04-38-00_333.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,23,1,night,train
+797359,Coonamassett_2024-05-09_04-49-43_977.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,16,2,night,train
+797363,Coonamassett_2024-05-09_06-18-50_578.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,7,1,day,train
+797364,Coonamassett_2024-05-09_06-23-27_843.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,14,2,day,train
+797365,Coonamassett_2024-05-09_06-28-13_184.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,33,1,day,train
+797382,Coonamassett_2024-05-12_07-58-28_289.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,20,1,day,train
+797403,Coonamassett_2024-05-12_10-23-29_018.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,22,1,day,train
+797408,Coonamassett_2024-05-12_07-58-27_889.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,20,1,day,train
+797438,Coonamassett_2024-05-15_13-23-11_759.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,7,1,day,train
+805002,Coonamassett_2024-05-16_13-03-30_551.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,40,1,day,train
+805006,Coonamassett_2024-05-04_05-11-52_669.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,51,2,night,train
+805007,Coonamassett_2024-05-04_05-08-19_317.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,56,3,night,test
+805008,Coonamassett_2024-05-04_05-08-27_993.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,21,1,night,test
+805009,Coonamassett_2024-05-04_05-09-20_847.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,56,2,night,test
+805047,Coonamassett_2024-05-05_04-00-32_278.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,46,4,night,train
+805049,Coonamassett_2024-05-05_04-04-48_740.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,61,1,night,train
+805051,Coonamassett_2024-05-05_04-06-51_399.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,49,3,night,train
+805052,Coonamassett_2024-05-05_04-34-08_671.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,60,5,night,train
+805054,Coonamassett_2024-05-05_04-43-11_625.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,9,1,night,test
+805089,Coonamassett_2024-05-10_04-35-04_293.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,42,1,night,train
+806322,Coonamassett_2024-05-08_05-03-38_256.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,24,1,night,train
+806323,Coonamassett_2024-05-08_05-03-41_259.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,21,2,night,test
+806324,Coonamassett_2024-05-08_05-28-51_587.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,7,1,night,train
+806325,Coonamassett_2024-05-08_05-35-38_003.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,9,1,dawn,train
+806347,Coonamassett_2024-05-24_21-04-09_308.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,70,4,night,train
+806348,Coonamassett_2024-05-24_21-05-55_748.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,21,2,night,train
+806350,Coonamassett_2024-05-24_21-14-12_050.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,53,3,night,train
+806351,Coonamassett_2024-05-24_21-25-21_993.mp4,completed,2024-11-06T15:17:50.240866Z,"Unknown Fish, River Herring",11,2,night,train
+806352,Coonamassett_2024-05-24_21-32-56_318.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,43,1,night,train
+806353,Coonamassett_2024-05-24_21-38-30_656.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,20,2,night,test
+806354,Coonamassett_2024-05-24_21-41-01_475.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,20,2,night,train
+806355,Coonamassett_2024-05-24_21-45-50_100.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,97,1,night,val
+806356,Coonamassett_2024-05-24_21-52-37_644.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,62,1,night,train
+806403,Coonamassett_2024-05-24_20-53-09_775.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,37,3,night,train
+806404,Coonamassett_2024-05-24_20-08-03_642.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,6,1,night,train
+806405,Coonamassett_2024-05-24_20-12-04_546.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,8,1,night,train
+806406,Coonamassett_2024-05-24_20-13-14_882.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,23,3,night,train
+806407,Coonamassett_2024-05-24_20-21-40_647.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,21,3,night,train
+806408,Coonamassett_2024-05-24_20-23-03_529.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,26,3,night,train
+806409,Coonamassett_2024-05-24_20-30-29_234.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,31,4,night,train
+806410,Coonamassett_2024-05-24_20-35-06_841.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,27,4,night,train
+806412,Coonamassett_2024-05-24_20-35-49_417.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,10,2,night,train
+806413,Coonamassett_2024-05-24_20-40-20_150.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,35,3,night,test
+806414,Coonamassett_2024-05-24_20-42-07_389.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,21,2,night,train
+806420,Coonamassett_2024-05-24_16-45-13_139.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,81,2,day,train
+806421,Coonamassett_2024-05-24_16-04-53_622.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,19,1,day,train
+806423,Coonamassett_2024-05-24_16-24-49_133.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,24,2,day,train
+806424,Coonamassett_2024-05-24_16-33-42_125.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,27,3,day,train
+806425,Coonamassett_2024-05-24_16-37-50_369.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,11,1,day,train
+806426,Coonamassett_2024-05-24_16-38-10_856.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,76,8,day,val
+806427,Coonamassett_2024-05-24_16-38-20_799.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,33,6,day,val
+806459,Coonamassett_2024-05-24_12-44-10_741.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,27,7,day,train
+806460,Coonamassett_2024-05-24_12-04-44_831.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,69,2,day,val
+806461,Coonamassett_2024-05-24_12-05-07_453.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,94,4,day,train
+806463,Coonamassett_2024-05-24_12-36-11_740.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,87,3,day,test
+806464,Coonamassett_2024-05-24_12-40-24_720.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,72,3,day,train
+806473,Coonamassett_2024-05-23_17-55-01_830.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,16,2,day,train
+806474,Coonamassett_2024-05-23_17-21-00_990.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,17,2,day,train
+806475,Coonamassett_2024-05-23_17-23-31_941.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,23,3,day,train
+806476,Coonamassett_2024-05-23_17-31-40_696.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,11,2,day,test
+806478,Coonamassett_2024-05-23_17-35-35_664.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,28,3,day,train
+806479,Coonamassett_2024-05-23_17-42-50_833.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,6,1,day,train
+806480,Coonamassett_2024-05-23_17-45-13_776.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,14,2,day,train
+806481,Coonamassett_2024-05-23_17-49-11_080.mp4,completed,2024-11-06T15:17:50.240866Z,"Eel, River Herring",73,8,day,train
+806482,Coonamassett_2024-05-23_17-53-10_052.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,78,11,day,val
+806483,Coonamassett_2024-05-23_17-54-21_990.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,57,10,day,train
+806484,Coonamassett_2024-05-23_17-54-30_065.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,35,6,day,train
+806521,Coonamassett_2024-05-23_21-58-18_307.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,44,2,night,train
+806522,Coonamassett_2024-05-23_21-01-49_097.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,6,1,night,train
+806523,Coonamassett_2024-05-23_21-02-43_017.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,9,1,night,train
+806524,Coonamassett_2024-05-23_21-04-11_304.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,30,2,night,train
+806525,Coonamassett_2024-05-23_21-15-52_129.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,78,3,night,val
+806526,Coonamassett_2024-05-23_21-18-21_810.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,14,1,night,train
+806527,Coonamassett_2024-05-23_21-26-10_739.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,57,1,night,train
+806529,Coonamassett_2024-05-23_21-29-56_094.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,66,3,night,val
+806531,Coonamassett_2024-05-23_21-33-42_451.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,30,3,night,train
+806556,Coonamassett_2024-05-23_19-55-55_240.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,32,2,night,train
+806557,Coonamassett_2024-05-23_19-01-57_750.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,60,12,day,train
+806558,Coonamassett_2024-05-23_19-05-42_035.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,89,14,day,train
+806559,Coonamassett_2024-05-23_19-13-09_405.mp4,completed,2024-11-06T15:17:50.240866Z,"Unknown Fish, River Herring",68,13,day,train
+806560,Coonamassett_2024-05-23_19-16-18_856.mp4,completed,2024-11-06T15:17:50.240866Z,"Unknown Fish, River Herring",94,16,day,train
+806561,Coonamassett_2024-05-23_19-22-27_216.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,34,6,day,train
+806562,Coonamassett_2024-05-23_19-22-58_646.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,111,10,day,train
+806563,Coonamassett_2024-05-23_19-45-51_318.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,57,7,night,train
+806565,Coonamassett_2024-05-23_19-49-31_066.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,22,5,night,train
+806566,Coonamassett_2024-05-23_19-51-55_673.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,59,9,night,train
+806567,Coonamassett_2024-05-23_19-52-15_693.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,209,18,night,test
+806569,Coonamassett_2024-05-23_19-52-48_458.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,81,7,night,train
+806570,Coonamassett_2024-05-23_19-53-18_154.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,112,9,night,train
+806571,Coonamassett_2024-05-23_19-55-36_088.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,87,5,night,train
+806580,Coonamassett_2024-05-22_19-53-52_568.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,36,4,night,train
+806581,Coonamassett_2024-05-22_19-32-20_041.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,8,1,day,train
+806582,Coonamassett_2024-05-22_19-43-38_769.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,15,2,night,test
+806594,Coonamassett_2024-05-22_17-57-18_061.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,10,1,day,train
+806595,Coonamassett_2024-05-22_17-37-22_568.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,14,1,day,val
+806596,Coonamassett_2024-05-22_17-44-59_411.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,10,1,day,train
+806598,Coonamassett_2024-05-22_17-47-06_868.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,14,2,day,train
+806600,Coonamassett_2024-05-22_17-51-31_458.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,10,1,day,train
+806601,Coonamassett_2024-05-22_17-55-00_060.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,16,2,day,train
+806604,Coonamassett_2024-05-22_17-57-09_986.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,6,1,day,train
+806609,Coonamassett_2024-05-22_13-56-23_218.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,27,2,day,train
+806611,Coonamassett_2024-05-22_13-44-23_432.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,20,2,day,train
+806612,Coonamassett_2024-05-22_13-48-10_192.mp4,completed,2024-11-06T15:17:50.240866Z,"Eel, River Herring",31,3,day,train
+806613,Coonamassett_2024-05-22_13-49-03_245.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,8,1,day,val
+806641,Coonamassett_2024-05-22_07-04-56_265.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,95,28,day,train
+806642,Coonamassett_2024-05-22_07-05-17_085.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,16,1,day,train
+806643,Coonamassett_2024-05-22_07-16-23_330.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,59,16,day,test
+806644,Coonamassett_2024-05-22_07-18-12_035.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,59,14,day,train
+806645,Coonamassett_2024-05-22_07-18-30_386.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,110,22,day,train
+806647,Coonamassett_2024-05-22_07-27-34_178.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,13,1,day,train
+806649,Coonamassett_2024-05-22_07-27-45_323.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,14,1,day,train
+806656,Coonamassett_2024-05-22_00-00-49_020.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,7,1,night,train
+806657,Coonamassett_2024-05-22_00-06-57_646.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,7,1,night,train
+806658,Coonamassett_2024-05-22_00-15-24_006.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,6,1,night,train
+806659,Coonamassett_2024-05-22_00-18-33_591.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,13,2,night,train
+806660,Coonamassett_2024-05-22_00-29-15_883.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,14,1,night,train
+806661,Coonamassett_2024-05-22_00-40-29_539.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,6,1,night,train
+806662,Coonamassett_2024-05-22_00-42-31_391.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,7,1,night,train
+806663,Coonamassett_2024-05-22_00-50-49_410.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,5,1,night,train
+806867,Coonamassett_2024-05-21_05-20-56_084.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,32,2,dawn,train
+806868,Coonamassett_2024-05-21_06-05-26_012.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,55,5,day,test
+806869,Coonamassett_2024-05-21_06-05-34_086.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,72,12,day,test
+806871,Coonamassett_2024-05-21_06-07-20_792.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,14,2,day,train
+806873,Coonamassett_2024-05-21_06-18-00_224.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,108,22,day,val
+806875,Coonamassett_2024-05-21_06-18-27_317.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,121,55,day,train
+806881,Coonamassett_2024-05-21_19-40-53_463.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,21,3,night,train
+806882,Coonamassett_2024-05-21_19-49-50_797.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,7,1,night,train
+806903,Coonamassett_2024-05-22_04-43-14_286.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,23,3,night,train
+806904,Coonamassett_2024-05-22_04-50-23_638.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,23,1,night,val
+806905,Coonamassett_2024-05-22_03-28-44_285.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,10,1,night,train
+806907,Coonamassett_2024-05-22_04-02-13_489.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,48,1,night,train
+806908,Coonamassett_2024-05-22_04-12-14_875.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,47,1,night,train
+806910,Coonamassett_2024-05-22_04-21-37_223.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,63,2,night,train
+806911,Coonamassett_2024-05-22_04-38-33_012.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,45,3,night,val
+816327,Coonamassett_2024-05-06_09-12-22_146.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,30,20,day,train
+816329,Coonamassett_2024-05-06_09-12-24_146.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,24,19,day,train
+816349,Coonamassett_2024-04-26_12-56-39_715.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,30,7,day,train
+816351,Coonamassett_2024-04-26_12-56-41_715.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,24,5,day,train
+816352,Coonamassett_2024-04-26_12-56-43_715.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,30,5,day,train
+816354,Coonamassett_2024-04-26_12-56-45_715.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,24,4,day,train
+816402,Coonamassett_2024-05-06_09-15-31_399.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,15,4,day,train
+816403,Coonamassett_2024-05-06_09-15-27_399.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,30,14,day,train
+816405,Coonamassett_2024-05-06_09-15-29_399.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,24,9,day,train
+816473,Coonamassett_2024-05-06_09-15-31_399.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,15,4,day,train
+816475,Coonamassett_2024-05-06_09-26-13_934.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,22,6,day,test
+816476,Coonamassett_2024-05-06_09-26-15_934.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,30,10,day,train
+816478,Coonamassett_2024-05-06_09-26-17_934.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,19,3,day,train
+816480,Coonamassett_2024-05-06_09-28-45_025.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,30,18,day,train
+816482,Coonamassett_2024-05-06_09-28-47_025.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,24,28,day,val
+816483,Coonamassett_2024-05-06_09-28-49_025.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,19,20,day,train
+816485,Coonamassett_2024-05-07_07-11-59_847.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,30,42,day,train
+816486,Coonamassett_2024-05-07_07-12-01_847.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,18,31,day,test
+816488,Coonamassett_2024-05-07_09-04-01_507.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,31,18,day,train
+816490,Coonamassett_2024-05-07_09-04-03_507.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,25,9,day,train
+816492,Coonamassett_2024-05-07_09-04-11_221.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,31,11,day,train
+816493,Coonamassett_2024-05-07_09-04-13_221.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,25,17,day,train
+816496,Coonamassett_2024-05-07_09-04-15_221.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,18,11,day,train
+816497,Coonamassett_2024-05-07_10-04-03_798.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,30,9,day,train
+816500,Coonamassett_2024-05-07_10-04-05_798.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,24,8,day,train
+816501,Coonamassett_2024-05-07_10-04-07_798.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,30,5,day,train
+816503,Coonamassett_2024-05-07_10-04-09_798.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,23,4,day,train
+816504,Coonamassett_2024-05-07_10-04-11_798.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,18,1,day,train
+816517,Coonamassett_2024-05-06_09-12-26_146.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,30,27,day,train
+816519,Coonamassett_2024-05-06_09-12-28_146.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,24,0,day,train
+816522,Coonamassett_2024-05-06_09-15-29_399.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,24,8,day,train
+829628,Coonamassett_2024-05-07_17-55-27_219.mp4,completed,2024-11-06T15:17:50.240866Z,Bass,35,1,day,train
+829629,Coonamassett_2024-05-07_17-56-55_219.mp4,completed,2024-11-06T15:17:50.240866Z,Bass,74,1,day,train
+829644,Coonamassett_2024-06-05_00-12-04_469.mp4,completed,2024-11-06T15:17:50.240866Z,Eel,27,1,night,train
+829654,Coonamassett_2024-05-07_11-58-34_220.mp4,completed,2024-11-06T15:17:50.240866Z,Bass,39,1,day,train
+836259,Coonamassett_2024-05-21_06-18-22_091.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,29,12,day,train
+836260,Coonamassett_2024-05-21_06-18-24_091.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,29,16,day,train
+836262,Coonamassett_2024-05-21_06-18-18_091.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,30,11,day,train
+836263,Coonamassett_2024-05-21_06-18-20_091.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,28,14,day,train
+918927,Coonamessett_2024-05-12_22-32-21_857.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,36,1,night,val
+918928,Coonamessett_2024-05-12_22-25-25_492.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,17,1,night,train
+918929,Coonamessett_2024-05-12_20-58-44_044.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,10,1,night,train
+918931,Coonamessett_2024-05-12_20-58-18_680.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,57,4,night,train
+918932,Coonamessett_2024-05-12_20-55-06_316.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,11,1,night,train
+918933,Coonamessett_2024-05-12_20-53-45_952.mp4,completed,2024-11-06T15:17:50.240866Z,"Unknown Fish, River Herring",14,2,night,train
+918936,Coonamessett_2024-05-12_20-52-43_210.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,36,1,night,train
+918937,Coonamessett_2024-05-12_20-52-14_976.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,27,2,night,train
+918938,Coonamessett_2024-05-12_20-51-42_070.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,17,2,night,val
+918940,Coonamessett_2024-05-12_20-51-17_574.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,18,2,night,train
+918941,Coonamessett_2024-05-12_20-51-02_823.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,53,5,night,train
+918943,Coonamessett_2024-05-12_20-50-43_666.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,19,1,night,val
+918944,Coonamessett_2024-05-12_20-49-26_774.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,22,1,night,val
+918945,Coonamessett_2024-05-12_20-49-22_102.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,22,2,night,test
+918947,Coonamessett_2024-05-12_20-47-57_333.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,35,1,night,train
+918948,Coonamessett_2024-05-12_20-46-29_961.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,23,2,night,train
+918949,Coonamessett_2024-05-12_20-44-52_377.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,18,2,night,train
+918952,Coonamessett_2024-05-12_20-40-00_226.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,21,2,night,test
+918953,Coonamessett_2024-05-12_20-39-30_590.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,77,2,night,train
+918955,Coonamessett_2024-05-12_20-38-33_855.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,34,4,night,train
+918956,Coonamessett_2024-05-12_08-48-50_152.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,58,5,day,train
+918959,Coonamessett_2024-05-12_08-23-45_895.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,22,1,day,val
+918960,Coonamessett_2024-05-12_08-04-22_244.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,30,1,day,test
+918961,Coonamessett_2024-05-12_02-51-47_910.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,37,1,night,train
+918963,Coonamessett_2024-05-12_02-30-33_898.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,54,1,night,val
+918964,Coonamessett_2024-05-12_00-18-24_090.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,23,1,night,train
+918966,Coonamessett_2024-05-12_00-08-01_418.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,35,1,night,val
+918967,Coonamessett_2024-05-12_00-04-24_561.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,10,1,night,val
+918991,Coonamessett_2024-05-12_18-07-27_553.mp4,completed,2024-11-06T15:17:50.240866Z,Eel,42,1,day,train
+918992,Coonamessett_2024-05-12_18-11-51_400.mp4,completed,2024-11-06T15:17:50.240866Z,Eel,39,2,day,train
+918995,Coonamessett_2024-05-12_18-58-54_219.mp4,completed,2024-11-06T15:17:50.240866Z,Eel,25,1,day,train
+918996,Coonamessett_2024-05-12_20-34-09_337.mp4,completed,2024-11-06T15:17:50.240866Z,Eel,18,1,night,test
+918998,Coonamessett_2024-05-12_22-07-13_853.mp4,completed,2024-11-06T15:17:50.240866Z,Eel,35,2,night,train
+919000,Coonamessett_2024-05-12_22-46-53_967.mp4,completed,2024-11-06T15:17:50.240866Z,Eel,12,1,night,train
+919001,Coonamessett_2024-05-12_22-47-05_314.mp4,completed,2024-11-06T15:17:50.240866Z,"Eel, Unknown Fish",41,2,night,train
+919004,Coonamessett_2024-05-12_00-53-08_963.mp4,completed,2024-11-06T15:17:50.240866Z,Eel,35,1,night,train
+919005,Coonamessett_2024-05-12_04-02-27_944.mp4,completed,2024-11-06T15:17:50.240866Z,Eel,38,1,night,train
+919006,Coonamessett_2024-05-12_04-03-48_372.mp4,completed,2024-11-06T15:17:50.240866Z,Eel,57,1,night,train
+919008,Coonamessett_2024-05-12_04-09-04_747.mp4,completed,2024-11-06T15:17:50.240866Z,Eel,28,1,night,train
+919009,Coonamessett_2024-05-12_04-09-13_157.mp4,completed,2024-11-06T15:17:50.240866Z,Eel,58,3,night,train
+919011,Coonamessett_2024-05-12_04-43-29_191.mp4,completed,2024-11-06T15:17:50.240866Z,Eel,27,1,night,train
+919012,Coonamessett_2024-05-12_12-46-26_985.mp4,completed,2024-11-06T15:17:50.240866Z,Eel,53,1,day,val
+919014,Coonamessett_2024-05-12_12-46-42_403.mp4,completed,2024-11-06T15:17:50.240866Z,Eel,46,1,day,val
+919015,Coonamessett_2024-05-12_14-23-35_861.mp4,completed,2024-11-06T15:17:50.240866Z,Eel,73,4,day,train
+919016,Coonamessett_2024-05-12_14-27-41_821.mp4,completed,2024-11-06T15:17:50.240866Z,Eel,16,1,day,train
+919019,Coonamessett_2024-05-12_16-06-53_648.mp4,completed,2024-11-06T15:17:50.240866Z,Eel,27,1,day,test
+928171,Coonamessett_2024-05-13_00-03-19_406.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,54,1,night,val
+928172,Coonamessett_2024-05-13_00-10-15_443.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,31,2,night,train
+928173,Coonamessett_2024-05-13_00-13-29_411.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,11,1,night,train
+928174,Coonamessett_2024-05-13_00-37-42_770.mp4,completed,2024-11-06T15:17:50.240866Z,Eel,26,1,night,train
+928175,Coonamessett_2024-05-13_02-00-47_047.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,7,1,night,train
+928176,Coonamessett_2024-05-13_02-03-37_520.mp4,completed,2024-11-06T15:17:50.240866Z,Eel,6,1,night,val
+928178,Coonamessett_2024-05-13_02-05-53_485.mp4,completed,2024-11-06T15:17:50.240866Z,Unknown Fish,9,1,night,train
+928179,Coonamessett_2024-05-13_09-40-15_617.mp4,completed,2024-11-06T15:17:50.240866Z,Eel,26,1,day,train
+928180,Coonamessett_2024-05-13_12-09-56_594.mp4,completed,2024-11-06T15:17:50.240866Z,Eel,39,1,day,train
+928182,Coonamessett_2024-05-13_12-12-33_782.mp4,completed,2024-11-06T15:17:50.240866Z,Eel,31,1,day,train
+928184,Coonamessett_2024-05-13_12-13-45_008.mp4,completed,2024-11-06T15:17:50.240866Z,"Eel, River Herring",51,2,day,test
+928185,Coonamessett_2024-05-13_12-13-49_276.mp4,completed,2024-11-06T15:17:50.240866Z,Eel,31,1,day,train
+928186,Coonamessett_2024-05-13_12-21-13_366.mp4,completed,2024-11-06T15:17:50.240866Z,Eel,29,1,day,train
+928188,Coonamessett_2024-05-13_12-38-53_275.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,43,1,day,val
+928190,Coonamessett_2024-05-13_15-01-15_074.mp4,completed,2024-11-06T19:49:19.479717Z,"Eel, Unknown Fish",45,2,day,train
+928191,Coonamessett_2024-05-13_15-01-38_497.mp4,completed,2024-11-06T19:54:07.671011Z,"Eel, Unknown Fish",68,2,day,train
+928192,Coonamessett_2024-05-13_15-06-50_879.mp4,completed,2024-11-06T19:47:18.316182Z,"Eel, Unknown Fish",57,2,day,train
+928193,Coonamessett_2024-05-13_15-29-47_867.mp4,completed,2024-11-06T19:45:13.599209Z,"Eel, Unknown Fish",49,2,day,train
+928194,Coonamessett_2024-05-13_18-12-09_083.mp4,completed,2024-11-07T02:16:07.664166Z,Eel,58,1,day,train
+928196,Coonamessett_2024-05-13_18-12-25_165.mp4,completed,2024-11-07T01:47:54.783445Z,Eel,41,2,day,train
+928197,Coonamessett_2024-05-13_18-50-57_884.mp4,completed,2024-11-06T20:55:26.462662Z,"Eel, Unknown Fish",61,2,day,train
+928198,Coonamessett_2024-05-13_22-11-02_299.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,16,0,night,train
+928199,Coonamessett_2024-05-13_22-12-12_302.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,15,0,night,test
+928200,Coonamessett_2024-05-13_22-20-15_978.mp4,completed,2024-11-06T19:41:39.953528Z,"Unknown Fish, River Herring",23,2,night,train
+928201,Coonamessett_2024-05-13_22-28-31_999.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,24,2,night,train
+979668,Coonamessett_2024-05-07_07-03-02_820.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,21,0,day,train
+979669,Coonamessett_2024-05-07_07-03-21_840.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,21,0,day,train
+979670,Coonamessett_2024-05-07_07-04-21_836.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,21,0,day,test
+979671,Coonamessett_2024-05-07_07-04-38_853.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,21,0,day,train
+979672,Coonamessett_2024-05-07_07-07-09_811.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,21,0,day,train
+979673,Coonamessett_2024-05-07_07-07-19_821.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,21,0,day,train
+979674,Coonamessett_2024-05-07_07-07-30_833.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,21,0,day,train
+979675,Coonamessett_2024-05-07_07-07-48_852.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,21,1,day,train
+979676,Coonamessett_2024-05-07_07-12-21_803.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,21,0,day,train
+979677,Coonamessett_2024-05-07_07-12-24_806.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,21,0,day,train
+979678,Coonamessett_2024-05-07_07-12-37_820.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,21,0,day,train
+979680,Coonamessett_2024-05-07_07-12-48_831.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,21,0,day,train
+979681,Coonamessett_2024-05-07_07-14-21_862.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,21,0,day,train
+979682,Coonamessett_2024-05-07_07-14-30_804.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,21,0,day,train
+979683,Coonamessett_2024-05-07_07-14-54_829.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,21,0,day,train
+979684,Coonamessett_2024-05-07_07-14-59_834.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,21,0,day,train
+979685,Coonamessett_2024-05-07_07-15-21_857.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,21,0,day,train
+979686,Coonamessett_2024-05-07_07-17-21_849.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,21,5,day,train
+979687,Coonamessett_2024-05-07_07-17-57_820.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,21,0,day,train
+979689,Coonamessett_2024-05-07_07-18-28_852.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,21,0,day,val
+979690,Coonamessett_2024-05-07_07-24-21_821.mp4,completed,2024-11-06T15:17:50.240866Z,River Herring,21,0,day,train
+979691,Coonamessett_2024-05-09_13-26-23_994.mp4,completed,2024-11-06T15:17:50.240866Z,"Eel, Unknown Fish",40,2,day,train
+979692,Coonamessett_2024-05-10_03-53-16_836.mp4,completed,2024-11-06T20:58:12.201403Z,Unknown Fish,28,1,night,train
+979694,Coonamessett_2024-05-12_20-46-35_568.mp4,completed,2024-11-06T21:01:57.842798Z,River Herring,45,1,night,train
+979695,Coonamessett_2024-05-13_20-37-43_609.mp4,completed,2024-11-06T22:05:35.773730Z,River Herring,13,2,night,train
+979696,Coonamessett_2024-05-13_20-57-07_603.mp4,completed,2024-11-06T22:06:43.938427Z,Eel,6,1,night,train
+979697,Coonamessett_2024-05-13_23-05-43_445.mp4,completed,2024-11-06T22:08:08.174631Z,River Herring,13,1,night,test
+979698,Coonamessett_2024-05-13_23-11-31_116.mp4,completed,2024-11-06T22:14:22.999241Z,"Unknown Fish, River Herring",52,2,night,train
+1086961,Coonamessett_2024-05-22_23-01-37_901.mp4,completed,2024-12-13T05:04:26.312586Z,River Herring,16,2,night,train
+1086962,Coonamessett_2024-05-22_23-15-22_840.mp4,completed,2024-12-13T05:13:14.348440Z,River Herring,125,3,night,train
+1086963,Coonamessett_2024-05-22_23-25-40_577.mp4,completed,2024-12-13T05:17:59.183404Z,Unknown Fish,13,1,night,train
+1086964,Coonamessett_2024-05-22_23-32-00_616.mp4,completed,2024-12-13T05:20:12.920461Z,River Herring,18,2,night,test
+1086966,Coonamessett_2024-05-22_23-49-21_300.mp4,completed,2024-12-13T05:21:36.100936Z,River Herring,10,1,night,train
+1086967,Coonamessett_2024-05-22_23-51-31_494.mp4,completed,2024-12-13T05:24:15.774373Z,River Herring,19,3,night,train
+1086968,Coonamessett_2024-05-22_23-53-09_923.mp4,completed,2024-12-13T05:29:49.032011Z,River Herring,63,4,night,train
+1086969,Coonamessett_2024-05-24_20-30-29_234.mp4,completed,2024-12-13T06:17:59.130427Z,River Herring,32,4,night,train
+1086970,Coonamessett_2024-05-24_20-35-06_841.mp4,completed,2024-12-13T06:21:12.658280Z,River Herring,25,4,night,train
+1086971,Coonamessett_2024-05-24_20-40-20_150.mp4,completed,2024-12-13T06:24:47.236183Z,"Unknown Fish, River Herring",39,5,night,train
+1086972,Coonamessett_2024-05-24_20-41-17_206.mp4,completed,2024-12-13T06:29:55.024383Z,River Herring,19,1,night,train
+1086974,Coonamessett_2024-05-24_20-53-09_775.mp4,completed,2024-12-13T06:33:38.033462Z,River Herring,36,3,night,train
+1086976,Coonamessett_2024-05-24_20-54-44_468.mp4,completed,2024-12-13T06:40:13.119907Z,River Herring,33,4,night,train
+1086978,Coonamessett_2024-05-24_20-58-16_477.mp4,completed,2024-12-13T06:44:39.226899Z,River Herring,32,6,night,train
+1086980,Coonamessett_2024-05-24_21-04-09_308.mp4,completed,2024-12-13T06:53:13.826737Z,River Herring,70,5,night,train
+1086982,Coonamessett_2024-05-24_21-05-55_748.mp4,completed,2024-12-13T06:58:14.167105Z,"Unknown Fish, River Herring",51,4,night,train
+1086983,Coonamessett_2024-05-24_21-11-28_952.mp4,completed,2024-12-13T07:03:28.515203Z,"Unknown Fish, River Herring",47,5,night,train
+1086984,Coonamessett_2024-05-24_21-25-21_993.mp4,completed,2024-12-13T06:15:01.302956Z,River Herring,9,2,night,train
+1086985,Coonamessett_2024-05-24_21-25-30_134.mp4,completed,2024-12-13T06:13:05.428239Z,"Unknown Fish, River Herring",71,6,night,train
+1086986,Coonamessett_2024-05-24_21-29-03_350.mp4,completed,2024-12-13T06:06:37.137248Z,"Unknown Fish, River Herring",26,4,night,train
+1086987,Coonamessett_2024-05-24_21-41-01_475.mp4,completed,2024-12-13T05:58:50.433539Z,River Herring,21,2,night,val
+1086988,Coonamessett_2024-05-25_06-38-46_261.mp4,completed,2024-12-14T06:13:42.321961Z,River Herring,163,0,day,train
+1086990,Coonamessett_2024-05-25_06-39-03_812.mp4,completed,2024-12-14T05:32:45.990522Z,River Herring,85,0,day,train
+1086991,Coonamessett_2024-05-25_06-39-12_420.mp4,completed,2024-12-14T05:09:55.447707Z,River Herring,119,32,day,train
+1086992,Coonamessett_2024-05-25_06-44-58_565.mp4,completed,2024-12-14T04:23:47.153634Z,River Herring,72,5,day,train
+1086993,Coonamessett_2024-05-25_06-45-51_150.mp4,completed,2024-12-13T23:55:46.101681Z,River Herring,33,2,day,train
+1086994,Coonamessett_2024-05-25_06-50-09_741.mp4,completed,2024-12-13T05:56:55.156272Z,River Herring,43,2,day,train
+1086995,Coonamessett_2024-05-25_18-15-52_268.mp4,completed,2024-12-13T05:53:22.802276Z,River Herring,16,2,day,val
+1086997,Coonamessett_2024-05-25_19-07-00_875.mp4,completed,2024-12-13T05:51:32.088202Z,River Herring,6,1,day,test
+1086998,Coonamessett_2024-05-25_19-32-22_237.mp4,completed,2024-12-13T05:50:20.669351Z,River Herring,22,3,day,train
+1086999,Coonamessett_2024-05-25_19-39-42_536.mp4,completed,2024-12-13T05:47:49.090783Z,Unknown Fish,14,1,night,val
+1087001,Coonamessett_2024-05-25_19-58-50_464.mp4,completed,2024-12-13T05:02:34.767381Z,River Herring,25,3,night,train
+1087002,Coonamessett_2024-05-25_23-30-40_782.mp4,completed,2024-12-13T05:00:02.887502Z,River Herring,66,3,night,train
+1087003,Coonamessett_2024-05-25_23-44-10_721.mp4,completed,2024-12-13T04:57:15.119356Z,River Herring,52,2,night,train
+1087006,Coonamessett_2024-05-25_23-46-14_511.mp4,completed,2024-12-13T04:54:26.637124Z,"Unknown Fish, River Herring",115,5,night,test
+1087007,Coonamessett_2024-05-26_01-10-24_827.mp4,completed,2024-12-13T04:14:36.712506Z,"Unknown Fish, River Herring",55,8,night,val
+1087010,Coonamessett_2024-05-26_01-21-53_985.mp4,completed,2024-12-13T04:08:59.789822Z,River Herring,28,3,night,train
+1087011,Coonamessett_2024-05-26_01-49-11_493.mp4,completed,2024-12-13T04:06:15.495171Z,River Herring,8,1,night,train
+1087012,Coonamessett_2024-05-26_02-03-23_180.mp4,completed,2024-12-13T02:53:30.479982Z,River Herring,38,1,night,train
+1087013,Coonamessett_2024-05-26_02-12-37_990.mp4,completed,2024-12-13T02:48:24.587599Z,River Herring,93,3,night,val
+1087016,Coonamessett_2024-05-26_02-14-15_685.mp4,completed,2024-12-13T02:26:46.472057Z,River Herring,111,2,night,train
+1087018,Coonamessett_2024-05-26_03-10-04_261.mp4,completed,2024-12-12T23:51:00.323429Z,River Herring,55,2,night,train
+1087019,Coonamessett_2024-05-26_03-16-12_821.mp4,completed,2024-12-12T21:08:47.119640Z,River Herring,27,3,night,train
+1087020,Coonamessett_2024-05-26_03-30-40_668.mp4,completed,2024-12-12T21:05:54.837227Z,River Herring,26,2,night,train
+1087022,Coonamessett_2024-05-26_03-31-42_662.mp4,completed,2024-12-12T21:03:02.048085Z,River Herring,89,3,night,train
+1087023,Coonamessett_2024-05-26_03-45-04_712.mp4,completed,2024-12-12T20:56:10.116133Z,River Herring,56,1,night,train
+1087024,Coonamessett_2024-05-26_23-48-06_491.mp4,completed,2024-12-12T20:43:59.243779Z,Unknown Fish,11,1,night,train
+1087025,Coonamessett_2024-05-27_02-22-25_920.mp4,completed,2024-12-12T20:42:49.404344Z,River Herring,9,1,night,train
+1087027,Coonamessett_2024-05-27_02-26-13_011.mp4,completed,2024-12-12T20:41:35.215933Z,River Herring,23,1,night,train
+1087028,Coonamessett_2024-05-27_02-42-50_794.mp4,completed,2024-12-12T20:39:44.759676Z,River Herring,8,1,night,train
+1087029,Coonamessett_2024-05-27_02-56-14_187.mp4,completed,2024-12-12T19:58:48.251206Z,River Herring,72,1,night,train
+1087031,Coonamessett_2024-05-27_11-56-13_712.mp4,completed,2024-12-12T19:54:28.330985Z,River Herring,20,1,day,train
+1087034,Coonamessett_2024-05-27_11-58-45_727.mp4,completed,2024-12-12T19:52:23.714725Z,River Herring,163,3,day,test
+1087036,Coonamessett_2024-05-28_04-02-12_285.mp4,completed,2024-12-12T19:46:29.697448Z,River Herring,12,1,night,train
+1087037,Coonamessett_2024-05-28_04-05-56_974.mp4,completed,2024-12-12T19:45:04.441094Z,River Herring,7,1,night,train
+1087039,Coonamessett_2024-05-28_04-12-59_057.mp4,completed,2024-12-12T19:43:31.902863Z,River Herring,17,2,night,train
+1087041,Coonamessett_2024-05-28_04-15-29_005.mp4,completed,2024-12-12T19:41:39.531788Z,River Herring,6,1,night,train
+1087043,Coonamessett_2024-05-28_04-20-09_949.mp4,completed,2024-12-12T19:40:35.018913Z,River Herring,10,1,night,train
+1087044,Coonamessett_2024-05-28_04-30-20_218.mp4,completed,2024-12-12T19:39:30.067825Z,River Herring,16,1,night,train
+1087046,Coonamessett_2024-05-28_04-31-11_402.mp4,completed,2024-12-12T19:36:47.505538Z,"Unknown Fish, River Herring",17,3,night,train
+1087047,Coonamessett_2024-05-28_04-44-49_477.mp4,completed,2024-12-12T18:42:20.176102Z,River Herring,72,3,night,train
+1087049,Coonamessett_2024-05-28_04-48-47_645.mp4,completed,2024-12-12T18:36:19.265223Z,River Herring,7,1,night,train
+1087050,Coonamessett_2024-05-28_04-51-47_089.mp4,completed,2024-12-12T18:35:05.768060Z,River Herring,7,1,night,train
+1087053,Coonamessett_2024-05-28_04-51-55_164.mp4,completed,2024-12-12T18:34:10.124729Z,River Herring,10,1,night,test
+1087054,Coonamessett_2024-05-28_04-54-03_958.mp4,completed,2024-12-12T18:32:52.238085Z,River Herring,89,3,night,train
+1087055,Coonamessett_2024-05-28_19-15-25_522.mp4,completed,2024-12-12T18:25:52.189084Z,River Herring,7,1,day,train
+1087056,Coonamessett_2024-05-28_19-55-49_486.mp4,completed,2024-12-12T18:24:41.727881Z,"Unknown Fish, River Herring",29,4,night,train
+1087057,Coonamessett_2024-05-29_21-00-52_706.mp4,completed,2024-12-12T18:21:48.784808Z,River Herring,96,4,night,train
+1087058,Coonamessett_2024-05-29_21-05-17_230.mp4,completed,2024-12-12T18:02:46.233072Z,River Herring,67,3,night,train
+1087059,Coonamessett_2024-05-29_21-09-19_065.mp4,completed,2024-12-12T17:53:53.065502Z,River Herring,45,4,night,train
+1087060,Coonamessett_2024-05-30_09-00-13_427.mp4,completed,2024-12-12T17:16:49.857896Z,River Herring,34,2,day,train
+1087062,Coonamessett_2024-05-30_09-06-55_890.mp4,completed,2024-12-13T17:41:00.161164Z,River Herring,61,1,day,train
+1087064,Coonamessett_2024-05-30_09-18-47_990.mp4,completed,2024-12-12T07:52:30.462325Z,"Unknown Fish, River Herring",121,5,day,train
+1087067,Coonamessett_2024-05-30_09-19-37_305.mp4,completed,2024-12-12T17:25:47.229449Z,River Herring,90,3,day,test
+1087070,Coonamessett_2024-05-30_09-32-41_009.mp4,completed,2024-12-12T17:49:52.391752Z,River Herring,84,5,day,train
+1087071,Coonamessett_2024-05-30_20-00-11_835.mp4,completed,2024-12-13T07:15:29.813447Z,River Herring,34,3,night,test
+1087073,Coonamessett_2024-05-30_20-04-50_715.mp4,completed,2024-12-13T07:11:01.076968Z,River Herring,73,10,night,train
+1087074,Coonamessett_2024-05-30_20-06-51_036.mp4,completed,2024-12-13T17:56:35.802411Z,River Herring,136,4,night,test
+1087075,Coonamessett_2024-05-30_20-07-38_818.mp4,completed,2024-12-12T07:37:32.218818Z,River Herring,141,13,night,train
+1087077,Coonamessett_2024-05-30_20-15-02_930.mp4,completed,2024-12-13T18:29:37.584454Z,River Herring,192,8,night,val
+1087078,Coonamessett_2024-05-30_20-15-34_896.mp4,completed,2024-12-13T18:55:41.856023Z,River Herring,36,4,night,train
+1087079,Coonamessett_2024-05-30_20-16-45_433.mp4,completed,2024-12-13T18:50:06.357107Z,River Herring,119,9,night,train
+1087080,Coonamessett_2024-05-30_20-21-57_213.mp4,completed,2024-12-13T17:47:27.558041Z,River Herring,56,4,night,train
+1087081,Coonamessett_2024-05-30_20-23-25_435.mp4,completed,2024-12-12T07:22:39.336128Z,River Herring,71,7,night,test
+1087082,Coonamessett_2024-05-30_20-25-45_042.mp4,completed,2024-12-12T06:59:09.164372Z,River Herring,103,4,night,train
+1087085,Coonamessett_2024-05-30_20-26-54_979.mp4,completed,2024-12-12T06:49:55.767246Z,River Herring,87,5,night,train
+1087087,Coonamessett_2024-05-31_08-00-36_059.mp4,completed,2024-12-12T06:42:08.923084Z,River Herring,87,2,day,train
+1087088,Coonamessett_2024-05-31_08-30-58_346.mp4,completed,2024-12-12T06:21:00.127589Z,River Herring,9,1,day,train
+1087089,Coonamessett_2024-06-01_04-15-41_128.mp4,completed,2024-12-12T06:19:45.054176Z,River Herring,15,1,night,val
+1087090,Coonamessett_2024-06-01_04-21-34_609.mp4,completed,2024-12-12T06:18:13.025299Z,River Herring,15,1,night,test
+1087092,Coonamessett_2024-06-01_04-41-51_872.mp4,completed,2024-12-12T06:16:23.722034Z,River Herring,19,2,night,test
+1087093,Coonamessett_2024-06-01_04-49-22_314.mp4,completed,2024-12-11T23:47:04.921699Z,River Herring,39,2,night,train
+1087094,Coonamessett_2024-06-01_13-09-37_393.mp4,completed,2024-12-11T23:43:32.240952Z,Eel,45,2,day,train
+1087097,Coonamessett_2024-06-01_15-05-52_625.mp4,completed,2024-12-11T23:40:10.167899Z,River Herring,5,1,day,train
+1087099,Coonamessett_2024-06-01_15-21-06_502.mp4,completed,2024-12-11T23:39:21.108364Z,River Herring,25,3,day,val
+1087100,Coonamessett_2024-06-01_15-32-01_931.mp4,completed,2024-12-11T23:36:55.668084Z,River Herring,7,1,day,val
+1087102,Coonamessett_2024-06-01_21-02-43_612.mp4,completed,2024-12-11T23:35:55.807321Z,River Herring,8,1,night,test
+1087104,Coonamessett_2024-06-01_21-05-32_910.mp4,completed,2024-12-11T23:34:44.435947Z,River Herring,13,2,night,train
+1087106,Coonamessett_2024-06-01_21-09-33_010.mp4,completed,2024-12-11T23:32:56.763980Z,"Unknown Fish, River Herring",29,3,night,train
+1087107,Coonamessett_2024-06-01_21-17-34_479.mp4,completed,2024-12-11T23:11:12.876124Z,River Herring,8,1,night,val
+1087108,Coonamessett_2024-06-01_21-20-29_449.mp4,completed,2024-12-11T23:10:02.991964Z,River Herring,15,1,night,train
+1087109,Coonamessett_2024-06-01_21-23-14_744.mp4,completed,2024-12-11T23:07:39.345147Z,River Herring,65,2,night,train
+1087110,Coonamessett_2024-06-01_21-34-49_620.mp4,completed,2024-12-11T23:08:33.307898Z,River Herring,45,1,night,train
+1087112,Coonamessett_2024-06-02_04-31-36_231.mp4,completed,2024-12-11T22:45:36.880215Z,River Herring,18,2,night,train
+1087114,Coonamessett_2024-06-02_04-37-14_567.mp4,completed,2024-12-11T22:43:32.808943Z,River Herring,9,1,night,train
+1087116,Coonamessett_2024-06-02_11-51-05_543.mp4,completed,2024-12-11T22:42:34.902696Z,Unknown Fish,34,4,day,train
+1087117,Coonamessett_2024-06-02_11-51-48_852.mp4,completed,2024-12-11T22:39:53.534646Z,Unknown Fish,37,8,day,train
+1087119,Coonamessett_2024-06-02_12-01-37_124.mp4,completed,2024-12-11T22:36:47.168863Z,Unknown Fish,13,2,day,train
+1087120,Coonamessett_2024-06-02_21-00-39_032.mp4,completed,2024-12-11T22:35:18.888664Z,River Herring,22,2,night,train
+1087122,Coonamessett_2024-06-02_21-05-38_323.mp4,completed,2024-12-11T22:33:23.949674Z,River Herring,14,1,night,train
+1087123,Coonamessett_2024-06-02_21-13-12_165.mp4,completed,2024-12-11T22:32:08.461832Z,River Herring,12,1,night,train
+1087124,Coonamessett_2024-06-02_21-19-56_225.mp4,completed,2024-12-11T22:31:02.379529Z,River Herring,10,1,night,train
+1087125,Coonamessett_2024-06-03_01-10-22_665.mp4,completed,2024-12-11T22:29:52.392810Z,River Herring,8,1,night,train
+1087126,Coonamessett_2024-06-03_01-18-02_251.mp4,completed,2024-12-11T22:28:54.111124Z,River Herring,23,2,night,train
+1087127,Coonamessett_2024-06-03_01-24-34_304.mp4,completed,2024-12-11T22:26:39.610614Z,River Herring,13,1,night,val
+1087129,Coonamessett_2024-06-03_01-29-44_810.mp4,completed,2024-12-11T22:24:54.935079Z,Unknown Fish,9,1,night,train
+1087130,Coonamessett_2024-06-03_01-30-09_435.mp4,completed,2024-12-11T22:15:01.590725Z,"Unknown Fish, River Herring",20,2,night,train
+1087132,Coonamessett_2024-06-03_01-38-12_444.mp4,completed,2024-12-11T22:03:05.109428Z,River Herring,10,1,night,train
+1087134,Coonamessett_2024-06-03_21-07-47_912.mp4,completed,2024-12-11T22:11:34.604325Z,River Herring,9,1,night,train
+1087135,Coonamessett_2024-06-03_21-38-29_622.mp4,completed,2024-12-11T22:10:15.537418Z,River Herring,12,1,night,train
+1087136,Coonamessett_2024-06-03_22-13-06_086.mp4,completed,2024-12-11T22:12:31.089123Z,Unknown Fish,9,1,night,train
+1087137,Coonamessett_2024-06-03_22-13-19_966.mp4,completed,2024-12-11T22:01:51.747531Z,Unknown Fish,18,1,night,train
+1087138,Coonamessett_2024-06-04_21-06-03_699.mp4,completed,2024-12-11T22:04:22.503720Z,River Herring,12,1,night,test
+1087139,Coonamessett_2024-06-04_21-06-11_840.mp4,completed,2024-12-11T22:07:21.994442Z,"Unknown Fish, River Herring",30,2,night,train
+1087140,Coonamessett_2024-06-04_21-33-02_336.mp4,completed,2024-12-11T22:08:52.333498Z,River Herring,9,1,night,train
+1087141,Coonamessett_2024-06-04_21-40-36_243.mp4,completed,2024-12-11T21:28:36.506942Z,Unknown Fish,15,1,night,train
+1087142,Coonamessett_2024-06-05_21-34-07_202.mp4,completed,2024-12-11T21:24:18.416971Z,River Herring,18,1,night,train
+1087143,Coonamessett_2024-06-05_21-38-25_654.mp4,completed,2024-12-11T21:04:30.264854Z,River Herring,10,1,night,val
+1087145,Coonamessett_2024-06-05_21-45-27_999.mp4,completed,2024-12-11T21:03:02.782952Z,River Herring,29,2,night,test
+1087146,Coonamessett_2024-06-05_21-51-48_904.mp4,completed,2024-12-11T20:57:49.906106Z,"Unknown Fish, River Herring",19,2,night,train
+1087147,Coonamessett_2024-06-05_21-52-01_716.mp4,completed,2024-12-11T21:00:28.835784Z,"Unknown Fish, River Herring",25,3,night,test
+1087148,Coonamessett_2024-05-22_00-00-49_020.mp4,completed,2024-12-13T18:57:01.915657Z,River Herring,7,1,night,train
+1087150,Coonamessett_2024-05-22_00-06-57_646.mp4,completed,2024-12-13T18:58:48.505431Z,River Herring,7,1,night,val
+1087152,Coonamessett_2024-05-22_00-15-24_006.mp4,completed,2024-12-11T20:55:51.238816Z,River Herring,6,1,night,train
+1087153,Coonamessett_2024-05-22_00-18-33_591.mp4,completed,2024-12-11T20:54:43.601097Z,River Herring,13,2,night,train
+1087155,Coonamessett_2024-05-22_00-26-54_879.mp4,completed,2024-12-11T20:52:35.991269Z,River Herring,7,1,night,val
+1087156,Coonamessett_2024-05-22_00-29-15_883.mp4,completed,2024-12-11T20:51:38.356084Z,River Herring,15,1,night,train
+1087157,Coonamessett_2024-05-22_00-40-29_539.mp4,completed,2024-12-11T20:28:08.451683Z,River Herring,7,1,night,train
+1087158,Coonamessett_2024-05-22_00-42-31_391.mp4,completed,2024-12-11T20:20:28.484252Z,River Herring,8,1,night,train
+1087160,Coonamessett_2024-05-22_00-50-49_410.mp4,completed,2024-12-11T20:15:38.578675Z,River Herring,8,1,night,train
+1087163,Coonamessett_2024-05-22_03-28-44_285.mp4,completed,2024-12-11T20:01:36.187546Z,River Herring,8,1,night,train
+1087164,Coonamessett_2024-05-22_10-05-25_053.mp4,completed,2024-12-11T20:41:24.315721Z,River Herring,7,1,day,train
+1087165,Coonamessett_2024-05-22_10-14-58_411.mp4,completed,2024-12-13T23:51:37.642807Z,River Herring,110,1,day,train
+1087166,Coonamessett_2024-05-22_10-34-38_827.mp4,completed,2024-12-13T21:29:56.883366Z,River Herring,145,0,day,train
+1087167,Coonamessett_2024-05-22_10-36-02_509.mp4,completed,2024-12-13T19:01:21.476170Z,"Unknown Fish, River Herring",22,4,day,train
+1087168,Coonamessett_2024-05-22_10-42-08_665.mp4,completed,2024-12-11T19:21:17.003452Z,River Herring,44,1,day,train
+1087169,Coonamessett_2024-05-22_10-43-08_257.mp4,completed,2024-12-11T19:16:22.529838Z,River Herring,38,1,day,train

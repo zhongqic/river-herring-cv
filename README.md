@@ -18,6 +18,7 @@ git clone https://github.com/zhongqic/river-herring-cv.git && cd river-herring-c
 
 # create a conda environment, with Python>=3.9
 conda create -n river-herring-cv python=3.12
+conda activate river-herring-cv
 
 # Install requirements
 pip install -r requirements.txt

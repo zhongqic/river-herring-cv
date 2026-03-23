@@ -41,9 +41,9 @@ snapshot_download(repo_id="zhongqic/Fisheye-example", allow_patterns=["*.tar.gz"
 
 ```bash
 # Unzip downloaded files
-tar  -xzf data/test_train/train.tar.gz -C .\data\test_train
-tar  -xzf data/test_train/val.tar.gz -C .\data\test_train
-tar  -xzf data/test_train/test.tar.gz -C .\data\test_train
+tar  -xzf data/test_train/train.tar.gz -C ./data/test_train
+tar  -xzf data/test_train/val.tar.gz -C ./data/test_train
+tar  -xzf data/test_train/test.tar.gz -C ./data/test_train
 ```
 
 ##### 2. YOLO model training

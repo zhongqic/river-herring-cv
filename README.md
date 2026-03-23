@@ -70,7 +70,7 @@ A yolo11 model pretrained on the full dataset is available under `weights/` for 
 
 ```python
 python src/count_fish.py \
-    data/raw_video/1_2024-05-07_10_06_48-355.mp4 \ # input video file
+    data/video/Coonamassett_2024-05-06_14-31-01_510.mp4 \ # input video file
     weights/river-herring-yolo11.pt \              # model weight
     outputs/fish_count \                           # output dir for count results
     --class_id 0 \          # Class ID to count

@@ -36,7 +36,7 @@ It is also included in the [Community Fish Detection Dataset](https://lila.scien
 ```python
 from huggingface_hub import hf_hub_download, snapshot_download
 snapshot_download(repo_id="zhongqic/Fisheye-example", allow_patterns=["*.tar.gz", "data.yaml"], repo_type="dataset", local_dir="data/test_train")
-snapshot_download(repo_id="zhongqic/Fisheye-example", allow_patterns=["video/*.mp4"], repo_type="dataset", local_dir="data/raw_video/")
+snapshot_download(repo_id="zhongqic/Fisheye-example", allow_patterns=["video/*.mp4"], repo_type="dataset", local_dir="data")
 
 ```
 
